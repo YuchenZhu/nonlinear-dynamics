@@ -13,7 +13,7 @@ nonlinear dynamics project, including solving dynamics of double pendulum and sy
 
 # Double pendulum
 ### System 
-<img src="https://github.com/YuchenZhu/nonlinear-dynamics/blob/master/img/dp.png" width=500>
+<img src="https://github.com/YuchenZhu/nonlinear-dynamics/blob/master/img/dp.png" width=200>
 
 ### Numercial analysis of unstable equilibrium situation
 <img src="https://github.com/YuchenZhu/nonlinear-dynamics/blob/master/img/acc_err.png" width=500>

@@ -1,5 +1,5 @@
 # nonlinear-dynamics
-nonlinear dynamics project, including solving dynamics of double pendulum and synchronization of metronomes
+nonlinear dynamics project, including solving dynamics of double pendulum and synchronization of metronomes.
 
 # Synchronization of metronomes
 ### System 
